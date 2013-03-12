@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Recaller
+_Comment=Recaller application
+Categories=GNOME;Utility;
+Exec=recaller
+Icon=recaller
+Terminal=false
+Type=Application
